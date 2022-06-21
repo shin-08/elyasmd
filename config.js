@@ -52,7 +52,7 @@ global.caliphapi = 'ELYAS_TZY'
 
 global.wm = 'By Agungx'
 global.watermark = wm
-global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
+global.media = 'https://telegra.ph/file/2ccdb3d40a29be3ba1dc2.jpg'
 global.instagram = 'https://instagram.com/yt.agungxx'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.flu = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
