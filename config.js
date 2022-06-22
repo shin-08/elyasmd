@@ -1,4 +1,4 @@
-global.owner = ['6287719424487'] // Put your number here
+global.owner = ['6283148375193'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -41,8 +41,8 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = '*Stiker sedang dibuat*'
-global.packname = 'Stickerby'
-global.author = `Sachi Botzz`
+global.packname = 'Shiren-md'
+global.author = `Is the best`
 
 
 
@@ -50,7 +50,7 @@ global.author = `Sachi Botzz`
 ig: yt.agungxx`
 global.caliphapi = 'ELYAS_TZY'
 
-global.wm = 'By Agungx'
+global.wm = 'Shiren-md'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/2ccdb3d40a29be3ba1dc2.jpg'
 global.instagram = 'https://instagram.com/yt.agungxx'
