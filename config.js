@@ -44,10 +44,6 @@ global.stiker_wait = '*Stiker sedang dibuat*'
 global.packname = 'Shiren-md'
 global.author = `Is the best`
 
-
-
-
-ig: yt.agungxx`
 global.caliphapi = 'ELYAS_TZY'
 
 global.wm = 'Shiren-md'
